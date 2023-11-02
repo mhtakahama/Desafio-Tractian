@@ -1,6 +1,4 @@
-Os arquivos do desafio estão dentro das pastas referentes a cada parte do desafio.
-
-O código foi desenvolvido dentro do prazo de teste (7 dias). E a idéia do desenvolvimento é totalmente autoral.
+Os arquivos do desafio estão dentro das pastas referentes a cada parte do desafio. O código foi desenvolvido dentro do prazo de teste (7 dias). 
 
 # Desafio-Tractian Vaga: Data Scientist
 
