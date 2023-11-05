@@ -44,3 +44,14 @@ Assim como na etapa anterior você deve utilizar os arquivos disponibilizados, o
 3. Desenvolver um modelo/função capaz de identificar mudanças nos padrões de vibração para um ativo qualquer.
 4. Identificar possíveis falhas nos ativos utilizando o modelo desenvolvido no item 3 ou um novo modelo (a identificação deve ser autônoma e não uma análise visual).
 </aside>
+
+
+# Desafio Parte 1
+
+<img src="https://github.com/mhtakahama/Desafio-Tractian/blob/main/Diagramas/Desafio%20Tractian.png" alt="Figure 3" width="300">
+
+
+# Desafio Parte 2
+
+<img src="https://github.com/mhtakahama/Desafio-Tractian/blob/main/Diagramas/Desafio%20Tractian2.png" alt="Figure 3" width="300">
+
